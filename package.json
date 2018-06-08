@@ -1,0 +1,9 @@
+{
+    "name": "socket-io-app",
+    "version": "0.1.0",
+    "dependencies": {
+        "socket.io": "^2.1.1"
+    },
+    "author": "chrishuh <hsmysk@gmail.com>",
+    "description": "A very basic to do list manager"
+}
